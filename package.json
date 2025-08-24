@@ -1,0 +1,9 @@
+{
+    "name": "@amr-hc/myapp",
+    "version": "1.0.0",
+    "description": "A simple hello package",
+    "main": "index.js",
+    "license": "ISC",
+    "repository": {"type": "git", "url": "git+https://github.com/amr-hc/myapp.git"},
+    "publishConfig": {"registry": "https://npm.pkg.github.com"}
+}
