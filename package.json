@@ -5,5 +5,6 @@
     "main": "index.js",
     "license": "ISC",
     "repository": {"type": "git", "url": "git+https://github.com/amr-hc/myapp.git"},
-    "publishConfig": {"registry": "https://npm.pkg.github.com"}
+    "publishConfig": {"registry": "https://npm.pkg.github.com"},
+    "files": ["index.js"]
 }
